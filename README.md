@@ -6,7 +6,7 @@
 
 
 Hello There!
-I was an Amazing Assignment given by you guyss.Kudos!!. I have tried my best to implement all the functionalities assigned by you. Could have done more good just due to time constraint and had some other work as well so ended up here. I have pretty decent knowledge of Frontent Tech Stack especially Reactjs. Would be seeking a reply from you guyss.
+It was an Amazing Assignment given by you guyss.Kudos!!. I have tried my best to implement all the functionalities assigned by you. Could have done more good just due to time constraint and had some other work as well so ended up here. I have pretty decent knowledge of Frontent Tech Stack especially Reactjs. Would be seeking a reply from you guyss.
 Regards,
 Aman Dubey
 9205069840
